@@ -29,8 +29,6 @@
 - html/year/date 里面放的是html版本的基金筛选结果
 - zmail_recommend_mix.html 当天混合基金筛选结果的html版本
 - zmail_recommend_wenjian.html 当天债券基金筛选结果的html版本
-- mix.md 最新混合基金筛选结果的md版本
-- wenjian.md 最新债券基金筛选结果的md版本
 
 ## 我是如何根据筛选结果构建基金组合的
 - 在筛选结果的基础上，人工再选出4-5只债券基金，先低仓位观察3个月左右，然后最终投入占总仓位的80%-90%

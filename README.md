@@ -2,9 +2,12 @@
 - 首先恭喜你发现了宝藏，点星关注不迷路，先star起来吧。
 - 本项目遴选优质混合基金，债券基金，每日更新筛选结果，仅供参考。
 - 最新的混合基金推荐请点击[混合基金推荐](https://htmlpreview.github.io/?https://github.com/jumper2014/anyin-fund/blob/main/zmail_recommend_mix.html)
- ![image](https://github.com/jumper2014/anyin-fund/blob/main/img/mix.jpeg)
+
 - 最新的债券基金推荐请点击[债券基金推荐](https://htmlpreview.github.io/?https://github.com/jumper2014/anyin-fund/blob/main/zmail_recommend_wenjian.html)
- ![image](https://github.com/jumper2014/anyin-fund/blob/main/img/wenjian.jpeg)
+
+- 下面是筛选出的混合基金与债券基金示例
+ ![mix](https://user-images.githubusercontent.com/9908796/181129961-ab292d72-8c7e-4a47-aec0-1a0ec729a55e.jpeg)
+ ![wenjian](https://user-images.githubusercontent.com/9908796/181130016-43b30e91-7275-4376-9c63-989579ccb822.jpeg)
 
 ## 基金筛选策略
 - 筛选的主要思路是，过去一年以内，各时间段例如1个月，3个月，半年，1年中盈利能力持续向上的基金。

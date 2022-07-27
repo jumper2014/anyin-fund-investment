@@ -6,8 +6,8 @@
 - 最新的债券基金推荐请点击[债券基金推荐](https://htmlpreview.github.io/?https://github.com/jumper2014/anyin-fund/blob/main/zmail_recommend_wenjian.html)
 
 - 下面是筛选出的混合基金与债券基金示例
- ![mix](https://user-images.githubusercontent.com/9908796/181129961-ab292d72-8c7e-4a47-aec0-1a0ec729a55e.jpeg)
- ![wenjian](https://user-images.githubusercontent.com/9908796/181130016-43b30e91-7275-4376-9c63-989579ccb822.jpeg)
+- ![mix](https://user-images.githubusercontent.com/9908796/181139918-958b3f73-3d64-446a-8b76-77cff14bbc2a.png)
+- ![wenjian](https://user-images.githubusercontent.com/9908796/181139929-a54fc3bc-e25d-41c7-a183-b08a86221b1b.png)
 
 ## 基金筛选策略
 - 筛选的主要思路是，过去一年以内，各时间段例如1个月，3个月，半年，1年中盈利能力持续向上的基金。

@@ -2,6 +2,7 @@
 - 恭喜发现宝藏，star不迷路
 - 遴选优质混合基金，债券基金，每日更新筛选结果，仅供参考。
 - 最新的混合基金推荐请点击[混合基金推荐](https://htmlpreview.github.io/?https://github.com/jumper2014/anyin-fund/blob/main/zmail_recommend_mix.html)
+- 混合基金上榜推荐请点击[上榜混合基金推荐](https://htmlpreview.github.io/?https://github.com/jumper2014/anyin-fund/blob/main/zmail_recommend_mix_all.html)
 - 最新的债券基金推荐请点击[债券基金推荐](https://htmlpreview.github.io/?https://github.com/jumper2014/anyin-fund/blob/main/zmail_recommend_wenjian.html)
 
 ## 投资之诫
